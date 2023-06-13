@@ -1,7 +1,6 @@
 ---
 description: >-
-  Rust ile Solana için temel seviyede eğitim içeriği. Rust programlama diliyle
-  Solana blok zincirinde uygulama geliştirme sürecini öğrenin.
+  Bilginin paylaştıkça çoğaldığına inanıyorum. 2017'den beri kazandığım öğretmenlik deneyimlerimi de paylaştığım bir içeriğe dönüştürmeyi amaçlıyorum. İstediğim şey sadece öğretmek değil. Öğrendiklerini; öğretmeyi öğretebilmek. Herkesin katkıda bulunabildiği ve zaman geçtikçe buradan öğrendikleri ile başkalarını da geliştirebilecek insanlar için...
 ---
 
 # I. Giriş
