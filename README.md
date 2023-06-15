@@ -1,23 +1,15 @@
+# Table of contents
+
+* [I. Giriş](README.md)
+* [II. Solana ve Akıllı Sözleşme Geliştirme  Temelleri](ii.-solana-ve-akilli-soezlesme-gelistirme-temelleri.md)
+* [III. Solana ve Akıllı Sözleşme Geliştirme Ortamının Kurulumu](iii.-solana-ve-akilli-soezlesme-gelistirme-ortaminin-kurulumu.md)
+* [IV. Rust ile Akıllı Sözleşme geliştirme](iv.-rust-ile-akilli-soezlesme-gelistirme.md)
+* [V. dApp Geliştirme ve İnteraktif Eğitim Yöntemleri](v.-dapp-gelistirme-ve-interaktif-egitim-yoentemleri.md)
+* [Kaynaklar](kaynaklar.md)
+
 ---
 description: >-
   Bilginin paylaştıkça çoğaldığına inanıyorum. 2017'den beri kazandığım öğretmenlik deneyimlerimi de paylaştığım bir içeriğe dönüştürmeyi amaçlıyorum. İstediğim şey sadece öğretmek değil. Öğrendiklerini; öğretmeyi öğretebilmek. Herkesin katkıda bulunabildiği ve zaman geçtikçe buradan öğrendikleri ile başkalarını da geliştirebilecek insanlar için...
 ---
 
-# I. Giriş
-
-## A. Hedeflerimiz ve katılımcı profili
-
-Eğitimin amacı, eğitmen yetiştirmek ve onlara Solana'da akıllı sözleşme geliştirme ve dApp oluşturma konularında uzmanlık kazandırmaktır. Katılımcılarımız genellikle blockchain teknolojilerine ilgi duyan ve bu alanda eğitmenlik yapmayı hedefleyen kişilerdir. Temel bilgisayar bilgisi, programlama deneyimi ve blokzincir konusunda bir ön bilgiye sahip olmaları beklenir.
-
-## B. Solana Nedir?
-
-Solana, yüksek performanslı ve ölçeklenebilir bir blokzincir platformudur. İşlem onaylarını hızlı bir şekilde gerçekleştirir ve düşük maliyetlerle çalışır. Solana, Proof of History (PoH) konsensüs mekanizması ve Proof of Stake (PoS) birleşimiyle çalışır. Bu özellikleri sayesinde, yüksek işlem hacmine ve yoğunluğa sahip uygulamaların güvenli bir şekilde çalışmasını sağlar.
-
-## C. Akıllı Sözleşme ve dApp Kavramlarına Genel Bakış
-
-Akıllı sözleşmeler, otomatikleştirilmiş ve şeffaf bir şekilde çalışabilen kod parçacıklarıdır. Bu sözleşmeler, blokzincir üzerindeki işlemleri gerçekleştiren ve taraflar arasında güven sağlayan bir mekanizmadır. dApp'ler (merkezi olmayan uygulamalar), blokzincir teknolojisi üzerinde çalışan uygulamalardır. Merkezi otoritelere veya aracılara ihtiyaç duymadan, kullanıcıların kontrolü altında çalışırlar.
-
-## D. Eğitmen Olarak Rolümüz
-
-Eğitmen olarak, katılımcılara Solana'da akıllı sözleşme geliştirme ve dApp oluşturma konularında rehberlik etmek ve onların yetkinliklerini geliştirmekle sorumluyuz. Rolümüz, içerik hazırlama, ders planlaması, öğrenci yönlendirmesi, soruları cevaplama ve projelerin değerlendirmesini içerir. Ayrıca, katılımcıların öğrenme deneyimini iyileştirmek ve onlara ilham vermek için etkili iletişim becerilerini kullanırız.
 
