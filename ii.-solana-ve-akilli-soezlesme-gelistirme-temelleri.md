@@ -23,6 +23,8 @@
 
 *   Geliştirici araçları, Solana ekosisteminde dApp'lerin ve akıllı sözleşmelerin geliştirilmesini kolaylaştıran önemli bir unsurdur. Solana, geliştiricilere SDK'lar, API'ler ve diğer araçlar sunarak uygulama geliştirme sürecini destekler. Bu araçlar, geliştiricilerin Solana üzerinde güçlü, güvenli ve ölçeklenebilir uygulamalar oluşturmasına yardımcı olur.
 
+şş
+
 
 * Ayrıca SPL (Solana Program Library) standartları, Solana ekosisteminin önemli bir parçasıdır. SPL, Solana üzerinde geliştirilen tokenlerin ve akıllı sözleşmelerin standardizasyonunu sağlar. Bu standartlar, tokenlerin uyumlu bir şekilde çalışmasını ve farklı uygulamalar arasında etkileşimin sağlanmasını sağlar. SPL standartları, Solana ekosisteminin büyümesini teşvik eder ve daha fazla projenin Solana üzerinde geliştirilmesini kolaylaştırır.
 * Solana ekosisteminde birçok başarılı proje ve uygulama bulunur. Örneğin, Serum, merkezi olmayan bir borsa protokolüdür ve yüksek hızlı işlemlerle düşük maliyetlerle ticaret yapmayı sağlar. Audius, merkezi olmayan bir müzik platformudur ve sanatçıların doğrudan hayranlarıyla etkileşime geçmelerini ve gelir elde etmelerini sağlar. Raydium, likidite havuzları ve otomatik piyasa yapıcılığı sağlayan bir DeFi protokolüdür. Bu örnekler, Solana ekosistemindeki çeşitli projelerin ve uygulamaların yalnızca birkaçını temsil etmektedir. Solana'nın hızlı ve ölçeklenebilir altyapısı, geliştiricilere inovasyon için geniş bir alan sunar ve ekosistemin büyümesini teşvik eder.
