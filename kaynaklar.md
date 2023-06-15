@@ -1,6 +1,6 @@
 # Kaynaklar
 
-{% embed url="https://www.rust-lang.org/" %}
+{"https://www.rust-lang.org/" }
 
 {% embed url="https://solana.com/tr/learn" %}
 
