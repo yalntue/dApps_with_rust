@@ -1,4 +1,4 @@
-# II. Solana ve Akıllı Sözleşme Geliştirme  Temelleri
+# II. Solana ve Akıllı Sözleşme Geliştirme Temelleri
 
 ## _**A. Solana Ekosistemi ve Temel Kavramlar Solana'nın dinamik ve büyüyen ekosistemi, blokzincir teknolojisiyle ilgili çeşitli bileşenleri içerir. İşte Solana ekosistemi ve temel kavramlar hakkında genel**_
 
@@ -9,6 +9,24 @@
 * Ayrıca Solana, Proof of Stake (PoS) konsensüs mekanizmasını kullanarak blok üretimi ve doğrulama sürecini gerçekleştirir. PoS mekanizması, kullanıcıların kendi tokenlarını ağa kilitlemelerini ve buna karşılık blokların üretimine katkıda bulunmalarını sağlar. Bu, daha düşük enerji tüketimi ve daha hızlı blok onaylama süreleri gibi avantajlar sunar.
 * Solana'nın hızlı ve ölçeklenebilir blokzincir teknolojisi, ağda büyük hacimli işlemlerin aynı anda gerçekleştirilmesine olanak sağlar. Bu da daha verimli ve hızlı bir kullanıcı deneyimi sunar. Ayrıca düşük işlem maliyetleri, kullanıcıların ekonomik olarak daha erişilebilir bir şekilde ağa katılmasını sağlar.
 * Solana'nın hızlı ve ölçeklenebilir blokzincir teknolojisi, birçok uygulama ve sektör için büyük potansiyeller sunar. Finansal işlemler, oyun endüstrisi, merkezi olmayan uygulamalar ve daha fazlası, Solana'nın bu teknolojik özelliklerinden faydalanabilir. Hızlı işlem hızı, düşük maliyetler ve güvenilirlik, Solana'yı blokzincir teknolojisinin geleceğine yönelik önemli bir adım haline getirir.
+
+
+
+{% hint style="info" %}
+**Proof of Stake (PoS):** Proof of Stake, blok zinciri ağlarında konsensüs mekanizması olarak kullanılan bir protokoldür. PoS, blok zincirinde yeni blokların doğrulama ve onaylama sürecini sağlar. PoS'a göre, bir bloğu doğrulama hakkı, sahip olduğunuz kripto varlıkların miktarına bağlıdır. Yani, ne kadar fazla kripto varlığa sahipseniz, yeni blokları doğrulama olasılığınız da o kadar yüksek olur.
+
+PoS, enerji tüketimi açısından daha verimlidir çünkü madencilik için özel donanımların büyük miktarda enerji harcaması gerekmez. Ayrıca, PoS algoritması, blok zinciri ağının daha hızlı bir şekilde işlem yapmasını sağlayabilir.
+{% endhint %}
+
+{% hint style="info" %}
+**Proof of History (PoH):** Proof of History, Solana blok zinciri platformuna özgü olan bir konsensüs mekanizmasıdır. PoH, blok zincirinin zamanı hakkında güvenilir bir kaynak sağlar ve bloklar arasındaki sıralamayı belirler.
+
+PoH, merkezi olmayan bir zaman damgası protokolüdür. Bu protokol, işlem verilerini sırayla kaydederek, her bir bloğun oluşturulma süresini ve işlem geçmişini doğrulamaya olanak sağlar. PoH, düşük gecikme süresi ve yüksek işlem hızı ile Solana ağının yüksek performansını sağlamaktadır.
+
+Proof of History, blok zincirinin güvenliği ve bütünlüğü için önemli bir rol oynamaktadır. Bloklar arasındaki kesintisiz zaman damgası, işlemlerin doğruluğunu ve sıralamasını sağlar. Bu da Solana'nın hızlı ve güvenilir bir blok zinciri platformu olarak çalışmasını sağlar.
+
+PoH, enerji tüketimi açısından verimlidir ve daha hızlı blok onaylama süreleri sunar. Bu özellikleri sayesinde Solana, yüksek işlem hacmine sahip uygulamaların ve DeFi projelerinin ihtiyaçlarını karşılamada etkili bir şekilde kullanılmaktadır.
+{% endhint %}
 
 ### 2. Solana Ekosistemi
 
