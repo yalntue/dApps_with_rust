@@ -8,7 +8,7 @@
 * [Kaynaklar](kaynaklar.md)
 
 ---
-description: >-
+Amaç: >-
   Bilginin paylaştıkça çoğaldığına inanıyorum. 2017'den beri kazandığım öğretmenlik deneyimlerimi de paylaştığım bir içeriğe dönüştürmeyi amaçlıyorum. İstediğim şey sadece öğretmek değil. Öğrendiklerini; öğretmeyi öğretebilmek. Herkesin katkıda bulunabildiği ve zaman geçtikçe buradan öğrendikleri ile başkalarını da geliştirebilecek insanlar için...
 ---
 
