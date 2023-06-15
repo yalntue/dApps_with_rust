@@ -1,4 +1,4 @@
-# I. Giriş
+# 1. Giriş
 
 ## A. Hedeflerimiz ve katılımcı profili
 
